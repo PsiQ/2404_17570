@@ -1,0 +1,17 @@
+Prediction,,,
+Noise Level (dB),HOM Visibility at Pulse Energy - 1pJ,HOM Visibility at Pulse Energy - 1.5pJ,HOM Visibility at Pulse Energy - 2pJ
+70,0.99996,0.99996,0.99995
+75,0.99708,0.99705,0.99703
+80,0.89102,0.89264,0.89442
+85,0.36011,0.3687,0.37758
+90,0.057351,0.062295,0.06748
+95,0.0091803,0.011113,0.01325
+100,0.0028171,0.003758,0.0048929
+105,0.0017639,0.0023958,0.003219
+110,0.0015278,0.0020629,0.0027882
+115,0.0014629,0.0019674,0.0026619
+120,0.0014433,0.0019382,0.002623
+,,,
+Measurement,,,
+Experiment Noise Level (dB),Experiment Noise Level Error (dB),HOM Visibility (%),HOM Visibility Error (%)
+99,1.2,99.5,0.25
